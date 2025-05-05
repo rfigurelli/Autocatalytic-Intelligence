@@ -187,3 +187,10 @@ While contemporary applications validate the core architecture, future horizons 
 7. Abelha, P., Guerreiro, F., & Krüger, N. (2019). *Self-replicating robotics and modular fabrication.* ICRA Workshop.
 8. King, R. D., et al. (2009). *The automation of science.* \[[https://doi.org/10.1126/science.1165620](https://doi.org/10.1126/science.1165620)]
 9. Lee, C., & Szymanski, B. (2021). *Distributed microservice orchestration in IoT networks.* Journal of IoT Systems.
+
+## 10  License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+© 2025 Rogério Figurelli. This white paper is a conceptual reference architecture, shared openly and without warranty. You may copy, distribute, remix, transform, and build upon the material for any purpose, even commercially, provided that proper credit is given. This license encourages reuse while preserving attribution to the author.
+
+---
